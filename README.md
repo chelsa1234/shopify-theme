@@ -1,1 +1,1 @@
-#shopify theme developmentREAD
+# shopify theme development
